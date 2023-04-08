@@ -1,0 +1,40 @@
+body {
+    font-family: 'Lora', serif;
+    margin: 0px;
+
+}
+
+
+.wechange {
+    font-size: 500%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+#mission {
+    text-align: center;
+    font-size: 150%;
+    color: rgb(255, 255, 255);
+}
+
+
+#donat {
+    background-image: url(image/donation7.jpg);
+    height: 460px;
+    background-repeat: no-repeat;
+
+}
+
+.link-button {
+    display: grid;
+    position: absolute;
+    place-items: center;
+    margin: auto;
+    left: 550px;
+    right: 550px;
+    text-decoration: none;
+    background-image: linear-gradient(tomato, orange);
+    padding: 3PX 10PX;
+    border-radius: 5PX;
+    font-size: medium;
+}
