@@ -84,3 +84,44 @@ body {
 #wearee {
     text-align: center;
 }
+
+#three {
+    display: flex;
+}
+
+.ed {
+    background-color: rgba(155, 196, 238, 0.384);
+    height: 200px;
+    margin: 35px 30px;
+    padding-left: 10px;
+}
+
+#Education {
+    text-align: center;
+}
+
+.poor {
+    text-align: justify;
+}
+
+.edd {
+    background-color: #f987b65d;
+    height: 200px;
+    margin: 35px 30px;
+    padding-left: 10px;
+}
+
+#Shelter {
+    text-align: center;
+}
+
+.eddd {
+    background-color: rgba(249, 224, 190, 0.379);
+    height: 200px;
+    margin: 35px 30px;
+    padding-left: 10px;
+}
+
+#Food {
+    text-align: center;
+}
