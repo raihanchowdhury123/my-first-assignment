@@ -125,3 +125,64 @@ body {
 #Food {
     text-align: center;
 }
+
+#sectionone {
+    display: flex;
+}
+
+.halfe-withe {
+    width: 50%;
+    padding-left: 40px;
+}
+
+#Their-lives {
+    text-align: center;
+}
+
+#They-don {
+
+    text-align: left;
+}
+
+#Contribute {
+
+    text-align: center;
+    place-items: center;
+    margin: auto;
+    left: 50px;
+    right: 50px;
+    text-decoration: none;
+    background-image: linear-gradient(tomato, orange);
+    padding: 3PX 10PX;
+    border-radius: 5PX;
+    font-size: medium;
+}
+
+.halfe-withe img {
+    width: 100%;
+}
+
+#sectiontow {
+    display: flex;
+}
+
+#They-need {
+    text-align: center;
+}
+
+#A-poor {
+    text-align: left;
+}
+
+#How-to {
+    text-align: center;
+    place-items: center;
+    margin: auto;
+    left: 50px;
+    right: 50px;
+    text-decoration: none;
+    background-image: linear-gradient(tomato, orange);
+    padding: 3PX 10PX;
+    border-radius: 5PX;
+    font-size: medium;
+}
